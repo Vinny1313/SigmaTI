@@ -1,0 +1,7 @@
+# Ignorar arquivos de variáveis de ambiente
+.env
+
+# Ignorar dados persistentes dos containers
+*/zabbix-db-data/
+*/grafana-data/
+*/n8n-data/
